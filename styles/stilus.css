@@ -12,14 +12,14 @@ header {
     position: static;
 }
 .terkep {
-float: right;
+float: left;
 text-align: center;
 
 
 }
 
 .vezetok {
-    float: left;
+    float: right;
 }
 
 sup {
@@ -68,7 +68,7 @@ nav ul li.active {
 
 nav ul li a {
     text-decoration: none;
-    color: blue;
+    color: red;
 }
 
 div#content {

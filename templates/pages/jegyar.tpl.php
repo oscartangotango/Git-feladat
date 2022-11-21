@@ -9,7 +9,7 @@
         <th>Ring használat</th>
     </tr>
     <tr>
-        <td>1500 FT</td>
+        <td>2000 FT</td>
         <td>8000 Ft</td>
         <td>11000 Ft</td>
         <td>2000 Ft</td>
